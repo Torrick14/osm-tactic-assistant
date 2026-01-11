@@ -1,0 +1,5 @@
+{
+  "name": "OSM Tactic Assistant",
+  "description": "A professional tactic guide for Online Soccer Manager (OSM) to counter opponents based on their formation, style, and match conditions.",
+  "requestFramePermissions": []
+}

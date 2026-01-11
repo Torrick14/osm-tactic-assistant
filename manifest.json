@@ -1,0 +1,18 @@
+
+{
+  "name": "OSM Taktik Asistanı",
+  "short_name": "OSM Taktik",
+  "description": "OSM için maç kazandıran profesyonel taktik rehberi.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0266da",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3571/3571029.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
