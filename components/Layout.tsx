@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Analytics } from "@vercel/analytics/react";
 
 export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return (
@@ -22,8 +23,9 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
       
       {/* Footer Branding */}
       <footer className="p-4 pb-6 text-center text-slate-400 text-[10px] bg-slate-50 border-t border-slate-100 uppercase tracking-widest font-bold">
-        OSM Tactic Guide &copy; 2026
+        Tarık Paşalı &copy; 2026
       </footer>
+<Analytics />
     </div>
   );
 };
